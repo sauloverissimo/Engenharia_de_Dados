@@ -1,5 +1,10 @@
-# Projeto MVP - PUC Data Science
-Matéria: Engenharia de Dados
+# PUC Data Science
+***Projeto MVP de Engenharia de Dados***
+***Matéria: Engenharia de Dados***
+***Databricks***
+
+![Daabricks](https://th.bing.com/th/id/OIP._tSNl4WZRbmfPgDqRaodSwHaD6?rs=1&pid=ImgDetMain)
+
 
 Este projeto representa o MVP desenvolvido na pós-graduação em Data Science para a disciplina de Engenharia de Dados. O objetivo principal é **identificar os fatores comportamentais e socioeconômicos que influenciam negativamente o desempenho acadêmico dos alunos**.
 
