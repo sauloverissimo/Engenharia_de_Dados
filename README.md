@@ -10,12 +10,12 @@ Este projeto representa o MVP desenvolvido na pós-graduação em Data Science p
 
 ## Sumário
 
-- [Visão Geral](#vis%C3%A3o-geral)
+- [Visão Geral](#visao-geral)
 - [Objetivo](#objetivo)
 - [Metodologia](#metodologia)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Resultados e An%C3%A1lises](#resultados-e-an%C3%A1lises)
-- [Conclus%C3%A3o](#conclus%C3%A3o)
+- [Resultados e An%C3%A1lises](#resultados-e-analises)
+- [Conclus%C3%A3o](#conclusao)
 
 ## Visão Geral
 
