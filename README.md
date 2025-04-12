@@ -8,15 +8,6 @@
 
 Este projeto representa o MVP desenvolvido na pós-graduação em Data Science para a disciplina de Engenharia de Dados. O objetivo principal é **identificar os fatores comportamentais e socioeconômicos que influenciam negativamente o desempenho acadêmico dos alunos**.
 
-## Sumário
-
-- [Visão Geral](#visao-geral)
-- [Objetivo](#objetivo)
-- [Metodologia](#metodologia)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Resultados e Analises](#resultados-e-An%C3%A1lises)
-- [Conclusao](#Conclus%C3%A3o)
-
 ## Visão Geral
 
 Neste projeto, integrei dados acadêmicos, socioeconômicos e comportamentais para analisar o desempenho dos alunos. Utilizando a plataforma **Databricks Community Edition**, o **Apache Spark (PySpark)** e o **Delta Lake**, criei um fluxo que percorre as seguintes camadas:
